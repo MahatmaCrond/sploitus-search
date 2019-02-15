@@ -8,19 +8,9 @@ highly customizable.
 
 python sploitus.py <query>
 
-### Example Output
+## Example Output
 
-root@kali:~# python sploitus.py smb 4.6
+```
+dsf
 
-Querying the following URL: https://sploitus.com/?query=smb%204.6
-
-SCORE: 6.7
-Indusoft Web Studio 8.1 SP2 - Remote Code Execution
-More info: https://www.exploit-db.com/download/46342
-=================================
-
-
-SCORE: 6.7
-Indusoft Web Studio 8.1 SP2 Remote Code Execution
-More info: https://packetstormsecurity.com/files/download/151602/indusoftws81sp2-exec.txt
-=================================
+```
