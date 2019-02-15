@@ -6,7 +6,7 @@ highly customizable.
 
 ## Usage
 
-python sploitus.py < query >
+python sploitus.py <query>
 
 ## Example Output
 
